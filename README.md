@@ -16,8 +16,8 @@ Technology-Stack:
 
 Voter Authentication :
 
-    The voter authentication is carried out in two steps and it is implemented using Aadhaar API services.
-    A voter has to provide his Thumb impression ID and Aadhaar ID to the system which will serve as an input to Aadhaar API.
+    The voter authentication is carried out in two steps and it is implemented using NCDMV API services.
+    A voter has to provide his Thumb impression ID and NC DMV ID to the system which will serve as an input to Aadhaar API.
     Aadhaar API will provide the result as a basic detail of the voter if he/her has been successfully authenticated.
 
 Vote Casting and Blockchain REST API Development:
