@@ -1,6 +1,8 @@
 # HackTheHolidays
 This repository is for Ace Desai contribution to the HackTheHolidays Blockchain Hackathon.
 
-KYC-AML Coin
+Vote Coin 
+
+Large section of demographic today do not trust their government.This makes an election a very crucial aspect in a modern democracy. The issue with the current US election system is that it can be manipulated and hence is not reliable upto the large extent. Hence cryptographic techniques are employed to ensure the security of voting systems in order to increase its wide adoption. However, in such electronic voting systems, the public bulletin board that is hosted by the third party for publishing and auditing the voting results should be trusted by all participants. Recently, a number of digital solutions have been proposed to address this issue. However, these systems are impractical to use due to the limitations on the voter and candidate numbers supported, and their security techniques which are highly dependent on client-server architecture. To deal with all these issues, we propose practical platform-independent secure and distributed voting system which is developed on top the blockchain architecture. The proposed system hopes to wipe out the part of trust from an election to make it more secure and transparent. Undeniable nature is characteristically given by the fundamental blockchain design, and cryptographic methods like CSPRNG, salt hashing, proof of work are employed to enhance data security measures. There are many substantial social benefits to using the system as well such an easier and quicker voting process which will lead to higher voter turnout. We might definitely see a future where our country has implemented a system similar to ours. 
 
 
